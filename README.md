@@ -1,7 +1,7 @@
 # The-Patterned-Path-to-Programming-Success
 This is your one-stop-shop for mastering design patterns. And if you’re in a hurry, There is some snappy summaries that will impress any interviewer faster than you can say ‘Bob’s your uncle.’
 
-[Medium article (EN)](https://medium.com/@miladAzhdehnia/5a1b790a154f)
+[Medium article (EN)](https://medium.com/@miladAzhdehnia/the-patterned-path-to-programming-success-5a1b790a154f)
 
 ## Roadmap
 
